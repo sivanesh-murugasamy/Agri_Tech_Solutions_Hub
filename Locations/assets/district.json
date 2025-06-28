@@ -1,0 +1,2462 @@
+[
+    {
+        "StateName": "DELHI",
+        "Districtname": "SOUTH EAST DELHI"
+    },
+    {
+        "StateName": "DELHI",
+        "Districtname": "NORTH DELHI"
+    },
+    {
+        "StateName": "DELHI",
+        "Districtname": "NORTH WEST DELHI"
+    },
+    {
+        "StateName": "DELHI",
+        "Districtname": "WEST DELHI"
+    },
+    {
+        "StateName": "DELHI",
+        "Districtname": "CENTRAL DELHI"
+    },
+    {
+        "StateName": "DELHI",
+        "Districtname": "SOUTH DELHI"
+    },
+    {
+        "StateName": "DELHI",
+        "Districtname": "SOUTH WEST DELHI"
+    },
+    {
+        "StateName": "DELHI",
+        "Districtname": "NORTH EAST DELHI"
+    },
+    {
+        "StateName": "HARYANA",
+        "Districtname": "FARIDABAD"
+    },
+    {
+        "StateName": "HARYANA",
+        "Districtname": "MAHENDRAGARH"
+    },
+    {
+        "StateName": "HARYANA",
+        "Districtname": "GURGAON"
+    },
+    {
+        "StateName": "HARYANA",
+        "Districtname": "REWARI"
+    },
+    {
+        "StateName": "HARYANA",
+        "Districtname": "AMBALA"
+    },
+    {
+        "StateName": "HARYANA",
+        "Districtname": "ROHTAK"
+    },
+    {
+        "StateName": "HARYANA",
+        "Districtname": "JHAJJAR"
+    },
+    {
+        "StateName": "HARYANA",
+        "Districtname": "HISAR"
+    },
+    {
+        "StateName": "HARYANA",
+        "Districtname": "FATEHABAD"
+    },
+    {
+        "StateName": "HARYANA",
+        "Districtname": "SIRSA"
+    },
+    {
+        "StateName": "HARYANA",
+        "Districtname": "JIND"
+    },
+    {
+        "StateName": "HARYANA",
+        "Districtname": "KARNAL"
+    },
+    {
+        "StateName": "HARYANA",
+        "Districtname": "BHIWANI"
+    },
+    {
+        "StateName": "HARYANA",
+        "Districtname": "SONIPAT"
+    },
+    {
+        "StateName": "HARYANA",
+        "Districtname": "PANIPAT"
+    },
+    {
+        "StateName": "HARYANA",
+        "Districtname": "YAMUNA NAGAR"
+    },
+    {
+        "StateName": "HARYANA",
+        "Districtname": "PANCHKULA"
+    },
+    {
+        "StateName": "HARYANA",
+        "Districtname": "KAITHAL"
+    },
+    {
+        "StateName": "HARYANA",
+        "Districtname": "KURUKSHETRA"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "RUPNAGAR"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "PATIALA"
+    },
+    {
+        "StateName": "CHANDIGARH",
+        "Districtname": "CHANDIGARH"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "FATEHGARH SAHIB"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "LUDHIANA"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "SANGRUR"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "MOGA"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "FIROZPUR"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "AMRITSAR"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "TARN TARAN"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "GURDASPUR"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "Pathankot"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "JALANDHAR"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "NAWANSHAHR"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "KAPURTHALA"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "HOSHIARPUR"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "BARNALA"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "BATHINDA"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "MANSA"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "MUKTSAR"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "FARIDKOT"
+    },
+    {
+        "StateName": "PUNJAB",
+        "Districtname": "Fazilka"
+    },
+    {
+        "StateName": "HIMACHAL PRADESH",
+        "Districtname": "SHIMLA"
+    },
+    {
+        "StateName": "HIMACHAL PRADESH",
+        "Districtname": "SOLAN"
+    },
+    {
+        "StateName": "HIMACHAL PRADESH",
+        "Districtname": "SIRMAUR"
+    },
+    {
+        "StateName": "HIMACHAL PRADESH",
+        "Districtname": "KULLU"
+    },
+    {
+        "StateName": "HIMACHAL PRADESH",
+        "Districtname": "KINNAUR"
+    },
+    {
+        "StateName": "HIMACHAL PRADESH",
+        "Districtname": "LAHUL & SPITI"
+    },
+    {
+        "StateName": "HIMACHAL PRADESH",
+        "Districtname": "BILASPUR (HP)"
+    },
+    {
+        "StateName": "HIMACHAL PRADESH",
+        "Districtname": "HAMIRPUR(HP)"
+    },
+    {
+        "StateName": "HIMACHAL PRADESH",
+        "Districtname": "UNA"
+    },
+    {
+        "StateName": "HIMACHAL PRADESH",
+        "Districtname": "MANDI"
+    },
+    {
+        "StateName": "HIMACHAL PRADESH",
+        "Districtname": "KANGRA"
+    },
+    {
+        "StateName": "HIMACHAL PRADESH",
+        "Districtname": "CHAMBA"
+    },
+    {
+        "StateName": "JAMMU & KASHMIR",
+        "Districtname": "JAMMU"
+    },
+    {
+        "StateName": "JAMMU & KASHMIR",
+        "Districtname": "KATHUA"
+    },
+    {
+        "StateName": "JAMMU & KASHMIR",
+        "Districtname": "UDHAMPUR"
+    },
+    {
+        "StateName": "JAMMU & KASHMIR",
+        "Districtname": "DODA"
+    },
+    {
+        "StateName": "JAMMU & KASHMIR",
+        "Districtname": "POONCH"
+    },
+    {
+        "StateName": "JAMMU & KASHMIR",
+        "Districtname": "RAJAURI"
+    },
+    {
+        "StateName": "JAMMU & KASHMIR",
+        "Districtname": "SRINAGAR"
+    },
+    {
+        "StateName": "JAMMU & KASHMIR",
+        "Districtname": "BUDGAM"
+    },
+    {
+        "StateName": "JAMMU & KASHMIR",
+        "Districtname": "PULWAMA"
+    },
+    {
+        "StateName": "JAMMU & KASHMIR",
+        "Districtname": "ANANTHNAG"
+    },
+    {
+        "StateName": "JAMMU & KASHMIR",
+        "Districtname": "BARAMULLA"
+    },
+    {
+        "StateName": "JAMMU & KASHMIR",
+        "Districtname": "BANDIPUR"
+    },
+    {
+        "StateName": "JAMMU & KASHMIR",
+        "Districtname": "KUPWARA"
+    },
+    {
+        "StateName": "JAMMU & KASHMIR",
+        "Districtname": "LEH"
+    },
+    {
+        "StateName": "JAMMU & KASHMIR",
+        "Districtname": "KARGIL"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "GHAZIABAD"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "GAUTAM BUDDHA NAGAR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "ALIGARH"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "HATHRAS"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "BULANDSHAHR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "MAINPURI"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "FIROZABAD"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "ETAWAH"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "AURAIYA"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "ETAH"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "KANPUR NAGAR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "KANPUR DEHAT"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "UNNAO"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "AGRA"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "FARRUKHABAD"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "KANNAUJ"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "BANDA"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "CHITRAKOOT"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "HAMIRPUR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "MAHOBA"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "ALLAHABAD"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "KAUSHAMBI"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "FATEHPUR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "VARANASI"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "CHANDAULI"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "SANT RAVIDAS NAGAR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "MAU"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "AZAMGARH"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "BALLIA"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "JAUNPUR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "SULTANPUR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "FAIZABAD"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "AMBEDKAR NAGAR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "BARABANKI"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "LUCKNOW"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "RAEBARELI"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "PRATAPGARH"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "MIRZAPUR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "SONBHADRA"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "GHAZIPUR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "HARDOI"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "SHAHJAHANPUR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "BUDAUN"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "BAREILLY"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "PILIBHIT"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "MORADABAD"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "JYOTIBA PHULE NAGAR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "RAMPUR"
+    },
+    {
+        "StateName": "UTTARAKHAND",
+        "Districtname": "UDHAM SINGH NAGAR"
+    },
+    {
+        "StateName": "UTTARAKHAND",
+        "Districtname": "NAINITAL"
+    },
+    {
+        "StateName": "UTTARAKHAND",
+        "Districtname": "ALMORA"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "MEERUT"
+    },
+    {
+        "StateName": "UTTARAKHAND",
+        "Districtname": "PAURI GARHWAL"
+    },
+    {
+        "StateName": "UTTARAKHAND",
+        "Districtname": "RUDRAPRAYAG"
+    },
+    {
+        "StateName": "UTTARAKHAND",
+        "Districtname": "CHAMOLI"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "BIJNOR"
+    },
+    {
+        "StateName": "UTTARAKHAND",
+        "Districtname": "HARIDWAR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "SAHARANPUR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "MUZAFFARNAGAR"
+    },
+    {
+        "StateName": "UTTARAKHAND",
+        "Districtname": "DEHRADUN"
+    },
+    {
+        "StateName": "UTTARAKHAND",
+        "Districtname": "TEHRI GARHWAL"
+    },
+    {
+        "StateName": "UTTARAKHAND",
+        "Districtname": "UTTARKASHI"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "BAGPAT"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "SITAPUR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "KHERI"
+    },
+    {
+        "StateName": "UTTARAKHAND",
+        "Districtname": "CHAMPAWAT"
+    },
+    {
+        "StateName": "UTTARAKHAND",
+        "Districtname": "PITHORAGARH"
+    },
+    {
+        "StateName": "UTTARAKHAND",
+        "Districtname": "BAGESHWAR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "GONDA"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "BALRAMPUR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "SHRAWASTI"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "BASTI"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "BAHRAICH"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "SANT KABIR NAGAR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "SIDDHARTHNAGAR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "GORAKHPUR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "MAHARAJGANJ"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "DEORIA"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "KUSHINAGAR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "MATHURA"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "JHANSI"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "LALITPUR"
+    },
+    {
+        "StateName": "UTTAR PRADESH",
+        "Districtname": "JALAUN"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "ALWAR"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "JAIPUR"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "DAUSA"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "TONK"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "AJMER"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "NAGAUR"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "RAJSAMAND"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "PALI"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "SIROHI"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "UDAIPUR"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "JALOR"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "BHILWARA"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "CHITTORGARH"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "DUNGARPUR"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "BANSWARA"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "BHARATPUR"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "KARAULI"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "SAWAI MADHOPUR"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "BUNDI"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "KOTA"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "BARAN"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "JHALAWAR"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "DHOLPUR"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "CHURU"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "SIKAR"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "JHUJHUNU"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "BIKANER"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "GANGANAGAR"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "HANUMANGARH"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "JODHPUR"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "JAISALMER"
+    },
+    {
+        "StateName": "RAJASTHAN",
+        "Districtname": "BARMER"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "RAJKOT"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "JAMNAGAR"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "BHAVNAGAR"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "AMRELI"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "SURENDRA NAGAR"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "PORBANDAR"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "JUNAGADH"
+    },
+    {
+        "StateName": "DAMAN & DIU",
+        "Districtname": "DIU"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "GANDHI NAGAR"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "AHMEDABAD"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "MORBI"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "KACHCHH"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "MAHESANA"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "SABARKANTHA"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "PATAN"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "BANASKANTHA"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "KHEDA"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "ANAND"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "PANCH MAHALS"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "VADODARA"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "DAHOD"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "NARMADA"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "BHARUCH"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "SURAT"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "THE DANGS"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "NAVSARI"
+    },
+    {
+        "StateName": "GUJARAT",
+        "Districtname": "VALSAD"
+    },
+    {
+        "StateName": "DADRA & NAGAR HAVELI",
+        "Districtname": "DADRA & NAGAR HAVELI"
+    },
+    {
+        "StateName": "DAMAN & DIU",
+        "Districtname": "DAMAN"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "MUMBAI"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "AHMED NAGAR"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "AURANGABAD"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "THANE"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "RAIGARH(MH)"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "PUNE"
+    },
+    {
+        "StateName": "GOA",
+        "Districtname": "NORTH GOA"
+    },
+    {
+        "StateName": "GOA",
+        "Districtname": "SOUTH GOA"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "SATARA"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "SOLAPUR"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "BEED"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "OSMANABAD"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "LATUR"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "KOLHAPUR"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "RATNAGIRI"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "SANGLI"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "SINDHUDURG"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "NASHIK"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "DHULE"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "JALGAON"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "NANDURBAR"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "JALNA"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "PARBHANI"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "HINGOLI"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "NANDED"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "NAGPUR"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "BHANDARA"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "CHANDRAPUR"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "GADCHIROLI"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "GONDIA"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "WARDHA"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "AMRAVATI"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "BULDHANA"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "AKOLA"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "WASHIM"
+    },
+    {
+        "StateName": "MAHARASHTRA",
+        "Districtname": "YAVATMAL"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "EAST NIMAR"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "WEST NIMAR"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "BARWANI"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "INDORE"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "DEWAS"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "DHAR"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "UJJAIN"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "SHAJAPUR"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "RATLAM"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "JHABUA"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "MANDSAUR"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "NEEMUCH"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "BETUL"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "CHHINDWARA"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "HOSHANGABAD"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "HARDA"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "NARSINGHPUR"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "BHOPAL"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "RAISEN"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "VIDISHA"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "SAGAR"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "RAJGARH"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "SEHORE"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "DAMOH"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "CHHATARPUR"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "PANNA"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "TIKAMGARH"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "GUNA"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "SHIVPURI"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "GWALIOR"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "DATIA"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "MORENA"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "BHIND"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "SHEOPUR"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "SEONI"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "BALAGHAT"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "DINDORI"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "MANDLA"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "JABALPUR"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "KATNI"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "SATNA"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "SHAHDOL"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "UMARIA"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "ANUPPUR"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "SIDHI"
+    },
+    {
+        "StateName": "MADHYA PRADESH",
+        "Districtname": "REWA"
+    },
+    {
+        "StateName": "CHATTISGARH",
+        "Districtname": "DURG"
+    },
+    {
+        "StateName": "CHATTISGARH",
+        "Districtname": "RAJNANDGAON"
+    },
+    {
+        "StateName": "CHATTISGARH",
+        "Districtname": "KAWARDHA"
+    },
+    {
+        "StateName": "CHATTISGARH",
+        "Districtname": "RAIPUR"
+    },
+    {
+        "StateName": "CHATTISGARH",
+        "Districtname": "DHAMTARI"
+    },
+    {
+        "StateName": "CHATTISGARH",
+        "Districtname": "MAHASAMUND"
+    },
+    {
+        "StateName": "CHATTISGARH",
+        "Districtname": "BASTAR"
+    },
+    {
+        "StateName": "CHATTISGARH",
+        "Districtname": "BIJAPUR"
+    },
+    {
+        "StateName": "CHATTISGARH",
+        "Districtname": "KANKER"
+    },
+    {
+        "StateName": "CHATTISGARH",
+        "Districtname": "DANTEWADA"
+    },
+    {
+        "StateName": "CHATTISGARH",
+        "Districtname": "NARAYANPUR"
+    },
+    {
+        "StateName": "CHATTISGARH",
+        "Districtname": "BILASPUR"
+    },
+    {
+        "StateName": "CHATTISGARH",
+        "Districtname": "JANJGIR-CHAMPA"
+    },
+    {
+        "StateName": "CHATTISGARH",
+        "Districtname": "KORBA"
+    },
+    {
+        "StateName": "CHATTISGARH",
+        "Districtname": "RAIGARH"
+    },
+    {
+        "StateName": "CHATTISGARH",
+        "Districtname": "JASHPUR"
+    },
+    {
+        "StateName": "CHATTISGARH",
+        "Districtname": "SURGUJA"
+    },
+    {
+        "StateName": "CHATTISGARH",
+        "Districtname": "KORIYA"
+    },
+    {
+        "StateName": "TELANGANA",
+        "Districtname": "HYDERABAD"
+    },
+    {
+        "StateName": "TELANGANA",
+        "Districtname": "K.V.RANGAREDDY"
+    },
+    {
+        "StateName": "TELANGANA",
+        "Districtname": "MEDAK"
+    },
+    {
+        "StateName": "TELANGANA",
+        "Districtname": "NIZAMABAD"
+    },
+    {
+        "StateName": "TELANGANA",
+        "Districtname": "ADILABAD"
+    },
+    {
+        "StateName": "TELANGANA",
+        "Districtname": "KARIM NAGAR"
+    },
+    {
+        "StateName": "TELANGANA",
+        "Districtname": "WARANGAL"
+    },
+    {
+        "StateName": "TELANGANA",
+        "Districtname": "KHAMMAM"
+    },
+    {
+        "StateName": "TELANGANA",
+        "Districtname": "NALGONDA"
+    },
+    {
+        "StateName": "TELANGANA",
+        "Districtname": "MAHABUB NAGAR"
+    },
+    {
+        "StateName": "ANDHRA PRADESH",
+        "Districtname": "ANANTHAPUR"
+    },
+    {
+        "StateName": "ANDHRA PRADESH",
+        "Districtname": "CUDDAPAH"
+    },
+    {
+        "StateName": "ANDHRA PRADESH",
+        "Districtname": "CHITTOOR"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "VELLORE"
+    },
+    {
+        "StateName": "ANDHRA PRADESH",
+        "Districtname": "KURNOOL"
+    },
+    {
+        "StateName": "ANDHRA PRADESH",
+        "Districtname": "KRISHNA"
+    },
+    {
+        "StateName": "ANDHRA PRADESH",
+        "Districtname": "WEST GODAVARI"
+    },
+    {
+        "StateName": "ANDHRA PRADESH",
+        "Districtname": "GUNTUR"
+    },
+    {
+        "StateName": "ANDHRA PRADESH",
+        "Districtname": "PRAKASAM"
+    },
+    {
+        "StateName": "ANDHRA PRADESH",
+        "Districtname": "NELLORE"
+    },
+    {
+        "StateName": "ANDHRA PRADESH",
+        "Districtname": "VISAKHAPATNAM"
+    },
+    {
+        "StateName": "ANDHRA PRADESH",
+        "Districtname": "VIZIANAGARAM"
+    },
+    {
+        "StateName": "ANDHRA PRADESH",
+        "Districtname": "SRIKAKULAM"
+    },
+    {
+        "StateName": "ANDHRA PRADESH",
+        "Districtname": "EAST GODAVARI"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "BANGALORE"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "BANGALORE RURAL"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "RAMANAGAR"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "TUMKUR"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "CHIKKABALLAPUR"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "KOLAR"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "Mysuru"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "CHAMRAJNAGAR"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "KODAGU"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "MANDYA"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "HASSAN"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "CHICKMAGALUR"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "UDUPI"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "DAKSHINA KANNADA"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "DAVANGARE"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "SHIMOGA"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "CHITRADURGA"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "DHARWARD"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "HAVERI"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "GADAG"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "UTTARA KANNADA"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "BELGAUM"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "BELLARY"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "KOPPAL"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "RAICHUR"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "GULBARGA"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "BIDAR"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "BIJAPUR"
+    },
+    {
+        "StateName": "KARNATAKA",
+        "Districtname": "BAGALKOT"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "CHENNAI"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "KANCHIPURAM"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "TIRUVALLUR"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "VILLUPURAM"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "TIRUVANNAMALAI"
+    },
+    {
+        "StateName": "PONDICHERRY",
+        "Districtname": "PONDICHERRY"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "CUDDALORE"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "NAGAPATTINAM"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "ARIYALUR"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "THANJAVUR"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "TIRUVARUR"
+    },
+    {
+        "StateName": "PONDICHERRY",
+        "Districtname": "KARAIKAL"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "TIRUCHIRAPPALLI"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "PUDUKKOTTAI"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "NAMAKKAL"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "PERAMBALUR"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "SALEM"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "KARUR"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "SIVAGANGA"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "RAMANATHAPURAM"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "VIRUDHUNAGAR"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "DINDIGUL"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "MADURAI"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "TIRUPPUR"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "THENI"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "TUTICORIN"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "TIRUNELVELI"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "KANYAKUMARI"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "KRISHNAGIRI"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "DHARMAPURI"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "ERODE"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "COIMBATORE"
+    },
+    {
+        "StateName": "TAMIL NADU",
+        "Districtname": "NILGIRIS"
+    },
+    {
+        "StateName": "KERALA",
+        "Districtname": "KANNUR"
+    },
+    {
+        "StateName": "KERALA",
+        "Districtname": "KASARGOD"
+    },
+    {
+        "StateName": "KERALA",
+        "Districtname": "WAYANAD"
+    },
+    {
+        "StateName": "KERALA",
+        "Districtname": "KOZHIKODE"
+    },
+    {
+        "StateName": "KERALA",
+        "Districtname": "MALAPPURAM"
+    },
+    {
+        "StateName": "KERALA",
+        "Districtname": "PALAKKAD"
+    },
+    {
+        "StateName": "KERALA",
+        "Districtname": "THRISSUR"
+    },
+    {
+        "StateName": "KERALA",
+        "Districtname": "ERNAKULAM"
+    },
+    {
+        "StateName": "LAKSHADWEEP",
+        "Districtname": "LAKSHADWEEP"
+    },
+    {
+        "StateName": "KERALA",
+        "Districtname": "IDUKKI"
+    },
+    {
+        "StateName": "KERALA",
+        "Districtname": "KOTTAYAM"
+    },
+    {
+        "StateName": "KERALA",
+        "Districtname": "ALAPPUZHA"
+    },
+    {
+        "StateName": "KERALA",
+        "Districtname": "PATHANAMTHITTA"
+    },
+    {
+        "StateName": "KERALA",
+        "Districtname": "KOLLAM"
+    },
+    {
+        "StateName": "KERALA",
+        "Districtname": "THIRUVANANTHAPURAM"
+    },
+    {
+        "StateName": "WEST BENGAL",
+        "Districtname": "KOLKATA"
+    },
+    {
+        "StateName": "WEST BENGAL",
+        "Districtname": "SOUTH 24 PARGANAS"
+    },
+    {
+        "StateName": "WEST BENGAL",
+        "Districtname": "NORTH 24 PARGANAS"
+    },
+    {
+        "StateName": "WEST BENGAL",
+        "Districtname": "HOWRAH"
+    },
+    {
+        "StateName": "WEST BENGAL",
+        "Districtname": "HOOGHLY"
+    },
+    {
+        "StateName": "WEST BENGAL",
+        "Districtname": "BARDHAMAN"
+    },
+    {
+        "StateName": "WEST BENGAL",
+        "Districtname": "MURSHIDABAD"
+    },
+    {
+        "StateName": "WEST BENGAL",
+        "Districtname": "WEST MIDNAPORE"
+    },
+    {
+        "StateName": "WEST BENGAL",
+        "Districtname": "EAST MIDNAPORE"
+    },
+    {
+        "StateName": "WEST BENGAL",
+        "Districtname": "BANKURA"
+    },
+    {
+        "StateName": "WEST BENGAL",
+        "Districtname": "Purulia"
+    },
+    {
+        "StateName": "WEST BENGAL",
+        "Districtname": "BIRBHUM"
+    },
+    {
+        "StateName": "WEST BENGAL",
+        "Districtname": "MALDA"
+    },
+    {
+        "StateName": "WEST BENGAL",
+        "Districtname": "SOUTH DINAJPUR"
+    },
+    {
+        "StateName": "WEST BENGAL",
+        "Districtname": "NORTH DINAJPUR"
+    },
+    {
+        "StateName": "WEST BENGAL",
+        "Districtname": "NADIA"
+    },
+    {
+        "StateName": "WEST BENGAL",
+        "Districtname": "JALPAIGURI"
+    },
+    {
+        "StateName": "WEST BENGAL",
+        "Districtname": "DARJILING"
+    },
+    {
+        "StateName": "WEST BENGAL",
+        "Districtname": "COOCH BEHAR"
+    },
+    {
+        "StateName": "SIKKIM",
+        "Districtname": "EAST SIKKIM"
+    },
+    {
+        "StateName": "SIKKIM",
+        "Districtname": "SOUTH SIKKIM"
+    },
+    {
+        "StateName": "SIKKIM",
+        "Districtname": "NORTH SIKKIM"
+    },
+    {
+        "StateName": "SIKKIM",
+        "Districtname": "WEST SIKKIM"
+    },
+    {
+        "StateName": "ANDAMAN & NICOBAR ISLANDS",
+        "Districtname": "SOUTH ANDAMAN"
+    },
+    {
+        "StateName": "ANDAMAN & NICOBAR ISLANDS",
+        "Districtname": "NORTH AND MIDDLE ANDAMAN"
+    },
+    {
+        "StateName": "ANDAMAN & NICOBAR ISLANDS",
+        "Districtname": "NICOBAR"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "KHORDA"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "PURI"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "NAYAGARH"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "CUTTACK"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "JAGATSINGHAPUR"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "JAJAPUR"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "KENDRAPARA"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "KENDUJHAR"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "BALESWAR"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "MAYURBHANJ"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "BHADRAK"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "DHENKANAL"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "ANGUL"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "GANJAM"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "GAJAPATI"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "KANDHAMAL"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "BOUDH"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "KORAPUT"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "RAYAGADA"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "MALKANGIRI"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "NABARANGAPUR"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "KALAHANDI"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "NUAPADA"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "BALANGIR"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "SONAPUR"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "SAMBALPUR"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "BARGARH"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "JHARSUGUDA"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "DEBAGARH"
+    },
+    {
+        "StateName": "ODISHA",
+        "Districtname": "SUNDERGARH"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "KAMRUP"
+    },
+    {
+        "StateName": "MEGHALAYA",
+        "Districtname": "RI BHOI"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "NALBARI"
+    },
+    {
+        "StateName": "MEGHALAYA",
+        "Districtname": "WEST KHASI HILLS"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "BARPETA"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "NAGAON"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "KARBI ANGLONG"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "MARIGAON"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "GOALPARA"
+    },
+    {
+        "StateName": "MEGHALAYA",
+        "Districtname": "EAST GARO HILLS"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "BONGAIGAON"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "DHUBRI"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "KOKRAJHAR"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "SONITPUR"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "DARRANG"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "LAKHIMPUR"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "DHEMAJI"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "JORHAT"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "SIBSAGAR"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "GOLAGHAT"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "DIBRUGARH"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "TINSUKIA"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "CACHAR"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "HAILAKANDI"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "KARIMGANJ"
+    },
+    {
+        "StateName": "ASSAM",
+        "Districtname": "NORTH CACHAR HILLS"
+    },
+    {
+        "StateName": "ARUNACHAL PRADESH",
+        "Districtname": "WEST KAMENG"
+    },
+    {
+        "StateName": "ARUNACHAL PRADESH",
+        "Districtname": "EAST KAMENG"
+    },
+    {
+        "StateName": "ARUNACHAL PRADESH",
+        "Districtname": "TAWANG"
+    },
+    {
+        "StateName": "ARUNACHAL PRADESH",
+        "Districtname": "WEST SIANG"
+    },
+    {
+        "StateName": "ARUNACHAL PRADESH",
+        "Districtname": "UPPER SIANG"
+    },
+    {
+        "StateName": "ARUNACHAL PRADESH",
+        "Districtname": "EAST SIANG"
+    },
+    {
+        "StateName": "ARUNACHAL PRADESH",
+        "Districtname": "PAPUM PARE"
+    },
+    {
+        "StateName": "ARUNACHAL PRADESH",
+        "Districtname": "KURUNG KUMEY"
+    },
+    {
+        "StateName": "ARUNACHAL PRADESH",
+        "Districtname": "LOWER SUBANSIRI"
+    },
+    {
+        "StateName": "ARUNACHAL PRADESH",
+        "Districtname": "UPPER SUBANSIRI"
+    },
+    {
+        "StateName": "ARUNACHAL PRADESH",
+        "Districtname": "LOHIT"
+    },
+    {
+        "StateName": "ARUNACHAL PRADESH",
+        "Districtname": "CHANGLANG"
+    },
+    {
+        "StateName": "ARUNACHAL PRADESH",
+        "Districtname": "DIBANG VALLEY"
+    },
+    {
+        "StateName": "ARUNACHAL PRADESH",
+        "Districtname": "TIRAP"
+    },
+    {
+        "StateName": "MEGHALAYA",
+        "Districtname": "EAST KHASI HILLS"
+    },
+    {
+        "StateName": "MEGHALAYA",
+        "Districtname": "JAINTIA HILLS"
+    },
+    {
+        "StateName": "MEGHALAYA",
+        "Districtname": "WEST GARO HILLS"
+    },
+    {
+        "StateName": "MEGHALAYA",
+        "Districtname": "SOUTH GARO HILLS"
+    },
+    {
+        "StateName": "MANIPUR",
+        "Districtname": "IMPHAL WEST"
+    },
+    {
+        "StateName": "MANIPUR",
+        "Districtname": "IMPHAL EAST"
+    },
+    {
+        "StateName": "MANIPUR",
+        "Districtname": "SENAPATI"
+    },
+    {
+        "StateName": "MANIPUR",
+        "Districtname": "BISHNUPUR"
+    },
+    {
+        "StateName": "MANIPUR",
+        "Districtname": "THOUBAL"
+    },
+    {
+        "StateName": "MANIPUR",
+        "Districtname": "UKHRUL"
+    },
+    {
+        "StateName": "MANIPUR",
+        "Districtname": "CHANDEL"
+    },
+    {
+        "StateName": "MANIPUR",
+        "Districtname": "CHURACHANDPUR"
+    },
+    {
+        "StateName": "MANIPUR",
+        "Districtname": "TAMENGLONG"
+    },
+    {
+        "StateName": "MIZORAM",
+        "Districtname": "AIZAWL"
+    },
+    {
+        "StateName": "MIZORAM",
+        "Districtname": "KOLASIB"
+    },
+    {
+        "StateName": "MIZORAM",
+        "Districtname": "MAMMIT"
+    },
+    {
+        "StateName": "MIZORAM",
+        "Districtname": "LUNGLEI"
+    },
+    {
+        "StateName": "MIZORAM",
+        "Districtname": "SERCHHIP"
+    },
+    {
+        "StateName": "MIZORAM",
+        "Districtname": "CHAMPHAI"
+    },
+    {
+        "StateName": "MIZORAM",
+        "Districtname": "LAWNGTLAI"
+    },
+    {
+        "StateName": "MIZORAM",
+        "Districtname": "SAIHA"
+    },
+    {
+        "StateName": "NAGALAND",
+        "Districtname": "KOHIMA"
+    },
+    {
+        "StateName": "NAGALAND",
+        "Districtname": "PEREN"
+    },
+    {
+        "StateName": "NAGALAND",
+        "Districtname": "WOKHA"
+    },
+    {
+        "StateName": "NAGALAND",
+        "Districtname": "DIMAPUR"
+    },
+    {
+        "StateName": "NAGALAND",
+        "Districtname": "PHEK"
+    },
+    {
+        "StateName": "NAGALAND",
+        "Districtname": "ZUNHEBOTTO"
+    },
+    {
+        "StateName": "NAGALAND",
+        "Districtname": "MOKOKCHUNG"
+    },
+    {
+        "StateName": "NAGALAND",
+        "Districtname": "TUENSANG"
+    },
+    {
+        "StateName": "NAGALAND",
+        "Districtname": "MON"
+    },
+    {
+        "StateName": "NAGALAND",
+        "Districtname": "KIPHIRE"
+    },
+    {
+        "StateName": "NAGALAND",
+        "Districtname": "LONGLENG"
+    },
+    {
+        "StateName": "TRIPURA",
+        "Districtname": "WEST TRIPURA"
+    },
+    {
+        "StateName": "TRIPURA",
+        "Districtname": "SOUTH TRIPURA"
+    },
+    {
+        "StateName": "TRIPURA",
+        "Districtname": "DHALAI"
+    },
+    {
+        "StateName": "TRIPURA",
+        "Districtname": "NORTH TRIPURA"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "PATNA"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "NALANDA"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "BUXAR"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "BHOJPUR"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "KAIMUR (BHABUA)"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "ROHTAS"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "NAWADA"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "GAYA"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "ARWAL"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "JEHANABAD"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "SHEIKHPURA"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "LAKHISARAI"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "MUNGER"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "BEGUSARAI"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "BHAGALPUR"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "JAMUI"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "BANKA"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "MADHEPURA"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "SAHIBGANJ"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "DUMKA"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "GODDA"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "DEOGHAR"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "JAMTARA"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "PAKUR"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "GIRIDH"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "PALAMAU"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "GARHWA"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "LATEHAR"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "AURANGABAD(BH)"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "RAMGARH"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "BOKARO"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "CHATRA"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "KODERMA"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "HAZARIBAG"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "DHANBAD"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "RANCHI"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "EAST SINGHBHUM"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "WEST SINGHBHUM"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "SERAIKELA-KHARSAWAN"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "KHUNTI"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "LOHARDAGA"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "GUMLA"
+    },
+    {
+        "StateName": "JHARKHAND",
+        "Districtname": "SIMDEGA"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "SARAN"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "SIWAN"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "GOPALGANJ"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "MUZAFFARPUR"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "VAISHALI"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "SITAMARHI"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "SHEOHAR"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "MADHUBANI"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "WEST CHAMPARAN"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "EAST CHAMPARAN"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "DARBHANGA"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "SAMASTIPUR"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "SUPAUL"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "KHAGARIA"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "SAHARSA"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "PURNIA"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "KATIHAR"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "ARARIA"
+    },
+    {
+        "StateName": "BIHAR",
+        "Districtname": "KISHANGANJ"
+    }
+]
